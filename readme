@@ -1,0 +1,8 @@
+
+
+mvn clean pacakge
+
+java -jar target/xxxx.jar
+
+
+visit http://localhost:12345/swagger-ui.html
